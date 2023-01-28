@@ -7,7 +7,7 @@ Reference Courses on:
 * Coursera;
 * Udemy;
 * Microsoft-Developers;
-* Staxkoverflow;
+* Stackoverflow;
 
 ---
 ![img](https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png)
